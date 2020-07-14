@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Drakeet, an Android software engineer at Microsoft.
+My name is Caij, an Android software engineer at Tencent.
 
-- 🔭 I'm currently working on [Outlook for Android](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook), and a side project called [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
+- 🔭 I'm currently working on [JOOX for Android](https://play.google.com/store/apps/details?id=com.tencent.ibg.wemusic), and a side project called [See](https://play.google.com/store/apps/details?id=com.caij.see)
 - 📫 How to reach me: 
-  * Telegram: [@drakeet](https://t.me/drakeet)
-  * Email: drakeet@drakeet.com
+  * Email: dev.caij@gmail.com
   
