@@ -3,5 +3,5 @@
 
 I am a professional Android Developer.
 - 🔭 I'm working at Tencent. [JOOX](https://play.google.com/store/apps/details?id=com.tencent.ibg.joox)  
-- 🌱 I have an side project. [See Weibo](https://play.google.com/store/apps/details?id=com.caij.see)
+- 🌱 I have an side project. [See Weibo](https://www.coolapk.com/apk/com.caij.see)
   
