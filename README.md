@@ -4,7 +4,6 @@
 - 🔭 I'm working at Tencent. [JOOX](https://play.google.com/store/apps/details?id=com.tencent.ibg.joox)
 - 🌱 Side project for weibo. [See](https://www.coolapk.com/apk/com.caij.see)
 <br>
-<br>
 
 [掘金](https://juejin.cn/user/2049145404143848)
 <!-- BLOG-POST-LIST:START -->
