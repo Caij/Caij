@@ -1,5 +1,3 @@
-![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
-
 My Apps:
 * [caij.xyz](https://apps.caij.xyz)  
 
